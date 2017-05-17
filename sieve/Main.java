@@ -1,4 +1,4 @@
-/* This program calculates the largest prime less than the query */
+/* This program calculates the largest prime less than the query's square root */
 
 import java.util.ArrayList;
 
